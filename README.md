@@ -46,7 +46,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/username/car_parking_system.git  
+git clone https://github.com/sanjeev-vlsi-design/car_parking_system.git  
 cd car_parking_system  
 Open the files in a Verilog simulator (e.g., ModelSim, Xilinx Vivado, or Icarus Verilog).
 
